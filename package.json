@@ -1,14 +1,23 @@
 {
-  "name": "encryptsha1module",
+  "name": "@joffrey1323/encryptsha1module",
   "version": "1.0.0",
   "description": "",
   "main": "encryptSHA1Module.js",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joffrey1323/encryptSHA1Module.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "crypto": "^1.0.1"
-  }
+  "bugs": {
+    "url": "https://github.com/Joffrey1323/encryptSHA1Module/issues"
+  },
+  "homepage": "https://github.com/Joffrey1323/encryptSHA1Module#readme"
 }
